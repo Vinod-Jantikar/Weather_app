@@ -1,0 +1,13 @@
+body {
+ 
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTU1mhTPPKvFvz3lnPg1-7UfKkPpruKdgWL_1PjtNl2jrvdJ6PQDGrIzDVf7hSEvYAMBY&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
